@@ -6,26 +6,35 @@ The **Inventory Management System** is a console-based application developed in 
 ## Preview
 ## 🎥 CLI Feature Showcase
 
+### 🖥️ Dashboard
+<img src="gifs/dashboard.png" alt="Dashboard View" width="600"/>
+
 ### 🔐 Authentication
-<img src="gifs/auth.gif" alt="Authentication" width="700"/>
+<img src="gifs/auth.gif" alt="Authentication" width="600"/>
 
 ### ➕ Add Product
-<img src="gifs/add.gif" alt="Add Product" width="700"/>
+<img src="gifs/add.gif" alt="Add Product" width="600"/>
+
+### 📋 View Products
+<img src="gifs/view.png" alt="View Products" width="600"/>
+
+### 📊 Product Reports
+<img src="gifs/report.png" alt="Product Reports" width="600"/>
 
 ### 🔄 Update Product
-<img src="gifs/update.gif" alt="Update Product" width="700"/>
+<img src="gifs/update.gif" alt="Update Product" width="600"/>
 
 ### 🔍 Search Product
-<img src="gifs/search.gif" alt="Search Product" width="700"/>
+<img src="gifs/search.gif" alt="Search Product" width="600"/>
 
 ### 🧹 Clear Inventory
-<img src="gifs/clear.gif" alt="Clear Inventory" width="700"/>
+<img src="gifs/clear.gif" alt="Clear Inventory" width="600"/>
 
 ### ❌ Delete Product
-<img src="gifs/del.gif" alt="Delete Product" width="700"/>
+<img src="gifs/del.gif" alt="Delete Product" width="600"/>
 
 ### 🚨 Low Stock Alert
-<img src="gifs/alert.gif" alt="Low Stock Alert" width="700"/>
+<img src="gifs/alert.gif" alt="Low Stock Alert" width="600"/>
 
 ## Features 🚀
 - **User Authentication** 🔑
