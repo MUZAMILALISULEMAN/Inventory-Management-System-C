@@ -3,6 +3,30 @@
 ## Project Overview
 The **Inventory Management System** is a console-based application developed in C language. It allows users to efficiently manage product stock, perform CRUD (Create, Read, Update, Delete) operations, and maintain accurate records of inventory.
 
+## Preview
+## 🎥 CLI Feature Showcase
+
+### 🔐 Authentication
+<img src="gifs/auth.gif" alt="Authentication" width="700"/>
+
+### ➕ Add Product
+<img src="gifs/add.gif" alt="Add Product" width="700"/>
+
+### 🔄 Update Product
+<img src="gifs/update.gif" alt="Update Product" width="700"/>
+
+### 🔍 Search Product
+<img src="gifs/search.gif" alt="Search Product" width="700"/>
+
+### 🧹 Clear Inventory
+<img src="gifs/clear.gif" alt="Clear Inventory" width="700"/>
+
+### ❌ Delete Product
+<img src="gifs/del.gif" alt="Delete Product" width="700"/>
+
+### 🚨 Low Stock Alert
+<img src="gifs/alert.gif" alt="Low Stock Alert" width="700"/>
+
 ## Features 🚀
 - **User Authentication** 🔑
 - **Product Management**:
